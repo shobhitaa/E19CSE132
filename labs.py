@@ -1,0 +1,5 @@
+print("Devops - 3 credits")
+print("SPM - 3 credits")
+print("HSS - 3 credits")
+print("HPC - 5 credits")
+print("Undergrad - 1 credit")
